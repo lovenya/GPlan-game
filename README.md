@@ -1,18 +1,6 @@
-# drag_drop
+# Gplan_game  
+This is a part of the project Dr. Krishnendra Shekhawat's GPlan.  
+More on GPlan -> https://www.gplan.in/  
+More on Dr. Krishnendra Shekhawat -> https://www.bits-pilani.ac.in/pilani/krishnendra-shekhawat/  
 
-"A new Flutter project."
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-(https://math.stackexchange.com/questions/2106656/commutative-binary-operation-integers-such-as-x%E2%88%98y-is-unique)
